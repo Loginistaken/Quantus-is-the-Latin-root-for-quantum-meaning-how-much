@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This article introduces **Quantum Latin**, a post-binary computational architecture grounded in the Latin concept *Quantus* — *to measure*. Rather than pursuing universal quantum computation through long-lived qubits and full entanglement graphs, Quantum Latin formalizes a **measurement-driven system** that leverages quantum-adjacent physical phenomena (polaritons, phase, frequency, tunneling, interference) and collapses them into deterministic, routable, and inspectable computational outcomes.
+This article introduces Quantum , a post-binary computational architecture grounded in the Latin concept *Quantus* — *to measure*. Rather than pursuing universal quantum computation through long-lived qubits and full entanglement graphs, this article formalizes a **measurement-driven system** that leverages quantum-adjacent physical phenomena (polaritons, phase, frequency, tunneling, interference) and collapses them into deterministic, routable, and inspectable computational outcomes.
 
 The architecture is defined by **35 core tasks**, organized across **five hierarchical layers**, forming a grammatical system of computation rather than a gate-based or transistor-based model. This approach prioritizes buildability, stability, and interoperability while retaining advantages in bandwidth, parallelism, and security.
 
@@ -12,21 +12,15 @@ The architecture is defined by **35 core tasks**, organized across **five hierar
 
 Traditional digital computing is built on binary abstractions (0/1), while quantum computing focuses on qubits, entanglement, and probabilistic collapse. Both paradigms impose strict constraints: binary systems are limited in density and parallelism, while quantum systems face decoherence, scaling, and control challenges.
 
-Quantum Latin proposes a third path: **post-binary measurement computing**. In this model, quantum phenomena are not preserved indefinitely but are **used, measured, stabilized, and resolved** into structured symbolic forms. Computation emerges not from isolated quantum states, but from the **grammar of how measured states are encoded, routed, and fused**.
+This Quantum propsal introduces a third path: **post-binary measurement computing**. In this model, quantum phenomena are not preserved indefinitely but are **used, measured, stabilized, and resolved** into structured symbolic forms. Computation emerges not from isolated quantum states, but from the **grammar of how measured states are encoded, routed, and fused**.
 
-The name *Quantum Latin* reflects this intent:
 
-* *Quantum* — because the system exploits quantum-scale physical effects
-* *Latin* — because it defines a formal grammar of operations
-* *Quantus* — because measurement is the central verb of computation
 
 ---
 
 ## 2. Design Philosophy
 
-The foundational principle of Quantum Latin is:
 
-> *Non omnia sunt quanta — sed omnia mensurantur.*
 > Not everything is quantum — but everything is measured.
 
 Key philosophical commitments:
@@ -236,7 +230,7 @@ Dynamic reconfiguration is supported; autonomous self-evolution is not.
 
 ## 10. Conclusion
 
-Quantum Latin defines a **new category of computation**: measurement-centric, post-binary, and grammar-driven. By reframing quantum phenomena as measurable verbs rather than fragile states, the architecture achieves a balance between physical realism and computational power.
+This quantum idea defines a **new category of computation**: measurement-centric, post-binary, and grammar-driven. By reframing quantum phenomena as measurable verbs rather than fragile states, the architecture achieves a balance between physical realism and computational power.
 
 The 35-task framework is not a limitation but a **complete alphabet** — a Latin grammar for future machines that compute not by holding reality in suspension, but by **measuring it with precision**.
 
@@ -259,9 +253,7 @@ Quantum Latin Framework — Quantus (“To Measure”)
 Core idea:
 This system is not claiming full universal quantum computation. Instead, it defines a measurement-driven, post-binary architecture where quantum-adjacent phenomena (polaritons, phase, frequency, color bins) are measured, stabilized, routed, and resolved into deterministic outputs.
 
-In Roman terms:
 
-Non omnia sunt quanta — sed omnia mensurantur.
 Not everything is quantum — but everything is measured.
 
 LEVEL 1 — Quantum Phenomena Layer (7)
@@ -287,7 +279,7 @@ Mirror	🟩	Phase-preserving demux and redundancy
 Reset	🟩	Thermal and decoherence clearing
 Transfer	🟩	Photon-electron interlayer routing
 
-Latin analogue: Acta — operations performed on measured states.
+— operations performed on measured states.
 
 LEVEL 3 — System Integration Layer (7)
 Function	Capability	Role
@@ -323,16 +315,9 @@ Learn	🟨	AI-ready, not AI-native
 Secure	🟩	Phase/frequency-encoded security
 Interact	🟩	Human–machine & device interfaces
 Evolve	🟨	Reconfigurable, not self-mutating
-Why This Is Quantum Latin
 
 Quantum → because it uses quantum phenomena
-
-Latin → because it is structural, grammatical, and declarative
-
 Quantus → because measurement is the verb
-
- defining a grammar of computation, not a qubit zoo.
-
 Qubits are states.
 This system is syntax.
 
