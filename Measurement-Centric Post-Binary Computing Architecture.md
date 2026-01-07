@@ -1,4 +1,4 @@
-# Quantum Latin: A Measurement-Centric Post-Binary Computing Architecture
+# Quantum proposal introduces Measurement-Centric Post-Binary Computing Architecture
 
 ## Abstract
 
@@ -12,7 +12,7 @@ The architecture is defined by **35 core tasks**, organized across **five hierar
 
 Traditional digital computing is built on binary abstractions (0/1), while quantum computing focuses on qubits, entanglement, and probabilistic collapse. Both paradigms impose strict constraints: binary systems are limited in density and parallelism, while quantum systems face decoherence, scaling, and control challenges.
 
-This Quantum propsal introduces a third path: **post-binary measurement computing**. In this model, quantum phenomena are not preserved indefinitely but are **used, measured, stabilized, and resolved** into structured symbolic forms. Computation emerges not from isolated quantum states, but from the **grammar of how measured states are encoded, routed, and fused**.
+This Quantum proposal introduces a third path: **post-binary measurement computing**. In this model, quantum phenomena are not preserved indefinitely but are **used, measured, stabilized, and resolved** into structured symbolic forms. Computation emerges not from isolated quantum states, but from the **grammar of how measured states are encoded, routed, and fused**.
 
 
 
@@ -251,7 +251,9 @@ Future research directions include:
 Quantum Latin Framework — Quantus (“To Measure”)
 
 Core idea:
-This system is not claiming full universal quantum computation. Instead, it defines a measurement-driven, post-binary architecture where quantum-adjacent phenomena (polaritons, phase, frequency, color bins) are measured, stabilized, routed, and resolved into deterministic outputs.
+This system is not claiming full universal quantum computation. Instead, it defines a measurement-driven, 
+post-binary architecture where quantum-adjacent phenomena (polaritons, phase, frequency, color bins) 
+are measured, stabilized, routed, and resolved into deterministic outputs.
 
 
 Not everything is quantum — but everything is measured.
